@@ -1,0 +1,39 @@
+{
+  "restaurant_name": "Tropical Breeze Café",
+  "address": "321 Ocean Drive, Miami, FL 33139",
+  "primary_cuisine": "Cuban",
+  "menu_items": [
+    "Cuban Sandwich",
+    "Ropa Vieja",
+    "Tostones",
+    "Black Bean Soup",
+    "Flan"
+  ],
+  "reviews": [
+    {
+      "reviewer": "Paula Perez",
+      "rating": 5,
+      "comment": "Fantastic Cuban food! The Cuban Sandwich was authentic and flavorful."
+    },
+    {
+      "reviewer": "Quincy Taylor",
+      "rating": 4,
+      "comment": "Great place for a taste of Cuba. Loved the Ropa Vieja and Tostones."
+    },
+    {
+      "reviewer": "Rachel Moore",
+      "rating": 4,
+      "comment": "Nice café with a good selection of Cuban dishes. The Flan was amazing."
+    },
+    {
+      "reviewer": "Steven Anderson",
+      "rating": 5,
+      "comment": "Authentic Cuban cuisine in a cozy setting. The Black Bean Soup was delicious."
+    },
+    {
+      "reviewer": "Tina Harris",
+      "rating": 3,
+      "comment": "Good food but the service was a bit slow. Worth a visit for the Cuban Sandwich."
+    }
+  ]
+}

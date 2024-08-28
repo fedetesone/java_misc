@@ -1,0 +1,39 @@
+{
+  "restaurant_name": "Lone Star Tacos",
+  "address": "654 Congress Avenue, Austin, TX 78701",
+  "primary_cuisine": "Tex-Mex",
+  "menu_items": [
+    "Beef Tacos",
+    "Chicken Quesadilla",
+    "Chili Con Carne",
+    "Guacamole and Chips",
+    "Sopapillas"
+  ],
+  "reviews": [
+    {
+      "reviewer": "Uma Patel",
+      "rating": 5,
+      "comment": "Best Tex-Mex in Austin! The Beef Tacos were packed with flavor."
+    },
+    {
+      "reviewer": "Victor Johnson",
+      "rating": 4,
+      "comment": "Great food and lively atmosphere. The Chicken Quesadilla was delicious."
+    },
+    {
+      "reviewer": "Wendy Evans",
+      "rating": 4,
+      "comment": "Tasty Tex-Mex dishes. The Chili Con Carne was rich and satisfying."
+    },
+    {
+      "reviewer": "Xavier Lee",
+      "rating": 5,
+      "comment": "Loved everything! The Guacamole and Chips were fresh and tasty."
+    },
+    {
+      "reviewer": "Yara Gomez",
+      "rating": 3,
+      "comment": "Good Tex-Mex, but the portions could be a bit larger. The Sopapillas were a nice treat."
+    }
+  ]
+}

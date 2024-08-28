@@ -1,0 +1,39 @@
+{
+  "restaurant_name": "La Bella Italia",
+  "address": "123 5th Avenue, New York, NY 10001",
+  "primary_cuisine": "Italian",
+  "menu_items": [
+    "Margherita Pizza",
+    "Fettuccine Alfredo",
+    "Bruschetta",
+    "Tiramisu",
+    "Panna Cotta"
+  ],
+  "reviews": [
+    {
+      "reviewer": "Alice Johnson",
+      "rating": 5,
+      "comment": "Amazing food! The Margherita Pizza was authentic and full of flavor."
+    },
+    {
+      "reviewer": "Bob Smith",
+      "rating": 4,
+      "comment": "Great atmosphere and delicious pasta. Service could be a bit faster."
+    },
+    {
+      "reviewer": "Cathy Lee",
+      "rating": 5,
+      "comment": "Best Italian restaurant in NYC! The Tiramisu is to die for."
+    },
+    {
+      "reviewer": "David Miller",
+      "rating": 4,
+      "comment": "Very cozy place with great food. Loved the Fettuccine Alfredo."
+    },
+    {
+      "reviewer": "Evelyn White",
+      "rating": 3,
+      "comment": "Good food but a bit pricey for the portion sizes."
+    }
+  ]
+}

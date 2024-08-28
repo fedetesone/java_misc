@@ -1,0 +1,39 @@
+{
+  "restaurant_name": "Windy City BBQ",
+  "address": "789 Michigan Avenue, Chicago, IL 60611",
+  "primary_cuisine": "Barbecue",
+  "menu_items": [
+    "Baby Back Ribs",
+    "Pulled Pork Sandwich",
+    "Mac and Cheese",
+    "Coleslaw",
+    "Peach Cobbler"
+  ],
+  "reviews": [
+    {
+      "reviewer": "Karen Green",
+      "rating": 5,
+      "comment": "The best BBQ I've ever had! The Baby Back Ribs were cooked to perfection."
+    },
+    {
+      "reviewer": "Larry Clark",
+      "rating": 4,
+      "comment": "Great BBQ joint! Loved the Pulled Pork Sandwich and the Mac and Cheese."
+    },
+    {
+      "reviewer": "Mona Davis",
+      "rating": 4,
+      "comment": "Delicious food and great service. The Peach Cobbler was a sweet ending."
+    },
+    {
+      "reviewer": "Nathan Hall",
+      "rating": 5,
+      "comment": "Authentic BBQ experience. The ribs were tender and full of flavor."
+    },
+    {
+      "reviewer": "Olivia Wright",
+      "rating": 3,
+      "comment": "Good BBQ, but the sides could use more seasoning. Overall, a nice place."
+    }
+  ]
+}

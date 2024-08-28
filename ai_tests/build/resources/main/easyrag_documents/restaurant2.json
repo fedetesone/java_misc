@@ -1,0 +1,39 @@
+{
+  "restaurant_name": "Golden Gate Sushi",
+  "address": "456 Lombard Street, San Francisco, CA 94133",
+  "primary_cuisine": "Japanese",
+  "menu_items": [
+    "California Roll",
+    "Spicy Tuna Roll",
+    "Miso Soup",
+    "Sashimi Platter",
+    "Green Tea Ice Cream"
+  ],
+  "reviews": [
+    {
+      "reviewer": "Frank Thompson",
+      "rating": 5,
+      "comment": "Incredible sushi! The Sashimi Platter was fresh and delicious."
+    },
+    {
+      "reviewer": "Gina Martinez",
+      "rating": 4,
+      "comment": "Nice place with great sushi options. The Spicy Tuna Roll is a must-try."
+    },
+    {
+      "reviewer": "Henry Adams",
+      "rating": 4,
+      "comment": "Good sushi but the service was a bit slow during peak hours."
+    },
+    {
+      "reviewer": "Isabel Brown",
+      "rating": 5,
+      "comment": "Loved the ambiance and the sushi was top-notch. Will definitely return."
+    },
+    {
+      "reviewer": "James Wilson",
+      "rating": 3,
+      "comment": "Sushi was decent but nothing extraordinary. Prices were reasonable."
+    }
+  ]
+}

@@ -1,3 +1,4 @@
 rootProject.name = 'java_misc'
 include 'main_module'
+include 'ai_tests'
 
